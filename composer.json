@@ -1,5 +1,5 @@
 {
-    "name": "jacobemerick/customerio-client",
+    "name": "shutterstock/customerio-client",
     "description": "PHP Client for Server-Side Customer.io Communication",
     "keywords": [
         "php client",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Jacobemerick\\CustomerIO\\": "src/"
+            "Shutterstock\\CustomerIO\\": "src/"
         }
     }
 }

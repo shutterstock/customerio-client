@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "628c7e04863f62185bef63039598ea71",
+    "hash": "e8448dea7f0efaf66eb5e02aa2c69de6",
     "packages": [
         {
             "name": "shutterstock/presto",

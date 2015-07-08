@@ -1,6 +1,6 @@
 <?php
 
-namespace Jacobemerick\CustomerIO;
+namespace Shutterstock\CustomerIO;
 
 use Shutterstock\Presto\Presto;
 use Shutterstock\Presto\Response;
